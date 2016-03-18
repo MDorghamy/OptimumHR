@@ -42,6 +42,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Reference\images %281%29.jpg" />
     <Content Include="Reference\Ionic.Zip.dll" />
     <Content Include="Reference\Kendo.Mvc.dll" />
     <Content Include="Reference\MvcCheckBoxList.dll" />
